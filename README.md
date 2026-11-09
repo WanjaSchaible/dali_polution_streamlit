@@ -27,10 +27,15 @@ pip install -e ".[dev]"
 ```
 
 ## Start
-
+Wenn das Environment nicht geladen wurde:
 ```bash
-streamlit run app/Home.py
+.venv/bin/streamlit run app/Home.py 
 ```
+Wenn das Environment vorher geladen wurde:
+```bash
+streamlit run app/Home.py 
+```
+
 
 ## Tests und Linting
 

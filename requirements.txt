@@ -1,0 +1,3 @@
+# Für Streamlit Community Cloud: installiert das Projekt inkl. Paket koeln_luft
+# und den Abhängigkeiten aus pyproject.toml.
+-e .
